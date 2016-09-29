@@ -1,0 +1,3 @@
+rootProject.name = 'GroupExpenses'
+
+include ':app'
